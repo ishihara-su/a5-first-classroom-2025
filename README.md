@@ -1,7 +1,7 @@
 # a5-1st-classroom
 First GitHub Classroom Assignment
 
-このプロジェクトは、システム工学応用実習II-2021の課題 A5用です。
+このプロジェクトは、システム工学応用実習II-2025の課題 A5用です。
 
 ファイルの編集作業などは、ローカルで行います。
 
@@ -26,4 +26,3 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
 - sum.pyの動作を確認したら、編集結果をコミットしてください。
 - `git push`として、結果をGitHub上のリポジトリに反映させます。
-
